@@ -8,7 +8,7 @@ const About = () => {
                     <p className='text-4xl font-bold inline border-b-4 border-green-500'>About</p>
                 </div>
                 <p className='text-xl mt-20'>
-                    I am a Bachelor of Mechanical Engineering graduated at the Cracow University of Technology and I am second year student of Master’s degree at the same University. Also, I study Software Development Methods at AGH University of Science and Technology. I finished course „Python and Data Science” at IT Academy in Cracow in which I learned how to use libraries like Pandas, Numpy, Matplotlib or Scikit - Learn in Machine Learning. In my spare time I learn various programming languages ​​such as Java or JavaScript
+                    I am a Bachelor of Mechanical Engineering graduated at the Cracow University of Technology and I am second year student of Master’s degree at the same University. Also, I finished Software Development Methods studies at AGH University of Science and Technology. I finished course „Python and Data Science” at IT Academy in Cracow in which I learned how to use libraries like Pandas, Numpy, Matplotlib or Scikit - Learn in Machine Learning. In my spare time I learn various programming languages ​​such as JavaScript with React and Java
                 </p>
             </div>
         </div>

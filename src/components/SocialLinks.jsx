@@ -1,7 +1,7 @@
 import React from 'react'
 import { FaGithub, FaLinkedin } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi'
-import { BsFillPersonLinesFill } from "react-icons/bs"
+
 
 const SocialLinks = () => {
 
@@ -33,18 +33,9 @@ const SocialLinks = () => {
                 </>
             ),
             href: "mailto:j.pikula97@gmail.com",
+            style: "rounded-br-md",
         },
-        {
-            id: 4,
-            child: (
-                <>
-                    CV <BsFillPersonLinesFill size={30} />
-                </>
-            ),
-            href: "/Jakub_Pikula_CV.pdf",
-            style: 'rounded-br-md',
-            download: true,
-        }
+
     ]
     return (
         <div className=' hidden lg:flex flex-col top-[35%] left-0 fixed'>
@@ -61,7 +52,6 @@ const SocialLinks = () => {
                         <a
                             href={href}
                             className="flex justify-between items-center w-full text-cyan-800"
-                            download={download}
                             target="_blank"
                             rel="noreferrer"
                         >
