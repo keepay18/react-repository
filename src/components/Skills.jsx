@@ -8,6 +8,7 @@ import nodeJS from '../assets/node.png'
 import vue from '../assets/vue.png'
 import python from '../assets/python.png'
 import java from '../assets/java.png'
+import sql from '../assets/sql.png'
 
 const Skills = () => {
 
@@ -65,6 +66,12 @@ const Skills = () => {
             src: java,
             title: "Java",
             style: "shadow-blue-700"
+        },
+        {
+            id: 10,
+            src: sql,
+            title: "SQL",
+            style: "shadow-blue-500"
         },
     ]
 

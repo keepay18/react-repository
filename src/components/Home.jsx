@@ -7,7 +7,7 @@ const Home = () => {
         <div name="home" className='h-screen w-full bg-gradient-to-b from-black via-black to-blue-800'>
             <div className='max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row'>
                 <div className='flex flex-col justify-center h-full'>
-                    <h2 className='text-4xl sm:text-7xl font-bold text-white'>I want to be a Frontend Developer</h2>
+                    <h2 className='text-4xl sm:text-7xl font-bold text-white'>I want to start my career in IT</h2>
                     <p className='text-green-500 py-4 max-w-md'>
                         I am a Bachelor of Mechanical Engineering graduated at the Cracow University of Technology and I am Student of Masters’s degree. Also I finished Software Development Methods studies and I finished course „Python and Data Science”
                     </p>
