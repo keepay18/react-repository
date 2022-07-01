@@ -4,7 +4,6 @@ import css from '../assets/css.png'
 import javascript from '../assets/javascript.png'
 import reactImage from '../assets/react.png'
 import github from '../assets/github.png'
-import nodeJS from '../assets/node.png'
 import vue from '../assets/vue.png'
 import python from '../assets/python.png'
 import java from '../assets/java.png'
@@ -45,30 +44,24 @@ const Skills = () => {
         },
         {
             id: 6,
-            src: nodeJS,
-            title: "NodeJS",
-            style: "shadow-green-300"
-        },
-        {
-            id: 7,
             src: vue,
             title: "Vue",
             style: "shadow-green-600"
         },
         {
-            id: 8,
+            id: 7,
             src: python,
             title: "Python",
             style: "shadow-yellow-400"
         },
         {
-            id: 9,
+            id: 8,
             src: java,
             title: "Java",
             style: "shadow-blue-700"
         },
         {
-            id: 10,
+            id: 9,
             src: sql,
             title: "SQL",
             style: "shadow-blue-500"
