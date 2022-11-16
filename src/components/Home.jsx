@@ -9,7 +9,7 @@ const Home = () => {
                 <div className='flex flex-col justify-center h-full'>
                     <h2 className='text-4xl sm:text-7xl font-bold text-white'>I want to start my career in IT</h2>
                     <p className='text-green-500 py-4 max-w-md'>
-                        I am a Bachelor of Mechanical Engineering graduated at the Cracow University of Technology and I am Student of Masters’s degree. Also I finished Software Development Methods studies and I finished course „Python and Data Science”
+                        I am a Bachelor of Mechanical Engineering graduated at the Cracow University of Technology and I am Student of Master’s degree. Also I finished Software Engineering Methods studies and I finished course „Python and Data Science”
                     </p>
                 </div>
                 <div>
